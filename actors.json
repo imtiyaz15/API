@@ -1,7 +1,5 @@
-
-  {
-    "name": "Catherine Missal",
-    "dob": "12-12-1990",
-    "imageStr": "/g3fsRgEoMxaqPayIMtGDWERqJ6A.jpg"
-  }
-
+{
+  "date": "12-14-2019",
+  "milliseconds_since_epoch": 1576318698857,
+  "time": "10:18:18 AM"
+}
